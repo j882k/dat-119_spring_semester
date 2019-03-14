@@ -42,3 +42,4 @@ if veg == 'y' or veg == 'n':
         print("invalid answer please go back and answer again")
 else:
     print("invalid answer, please reread the question and answer again")
+print("Thank you")
